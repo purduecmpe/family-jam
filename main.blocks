@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="1/;_wQteLk2s9trDbKQJ">mySprite</variable><variable type="KIND_SpriteKind" id="ACM*z*qs:-4}iOxv~)n~">Player</variable><variable type="KIND_SpriteKind" id="*Z=Lcvek-Lp9UR;Lx*^9">Projectile</variable><variable type="KIND_SpriteKind" id="dAcFuBm~vfeEN`k_q5m5">Food</variable><variable type="KIND_SpriteKind" id="7H),|W)|RzAnTdcRA}#a">Enemy</variable></variables><block type="pxt-on-start" id="hYcxifcowkLIz*o@4.q}" x="0" y="0"/><block type="variables_set" id="I)F#`HT[17w{$n;zGmeS" disabled="true" x="620" y="160"><field name="VAR" id="1/;_wQteLk2s9trDbKQJ">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="IB{5G]rJpo;p20fNluyv" disabled="true"><value name="img"><shadow type="screen_image_picker" id="IR[j8:5otu`Ea8El,R9`" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"IR[j8:5otu`Ea8El,R9`"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="stx3Abo7]2s),o,/%?-f" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block><block type="screen_image_picker" id=";?.jGx#=Z99Sb]#jR~U*" disabled="true" x="800" y="680"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":";?.jGx#=Z99Sb]#jR~U*"}}</data></block><block type="image_picker" id="eU)X,?@c6d#2u82XtB,l" disabled="true" x="850" y="990"><field name="image">sprites.background.autumn</field></block></xml>
